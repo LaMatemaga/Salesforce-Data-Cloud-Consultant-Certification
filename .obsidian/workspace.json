@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "0cb3b53b7243f4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b65854c574f9ae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8cae3758a8629e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 6 - Act on Data/F. Act on Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07ef3aa531cc239b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 5 - Segmentation and Insights/3. Configure, refine, and maintain segments within Data Cloud/E3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43c5e56758d420bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 6 - Act on Data/F. Act on Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5660b74358de1cba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases/F5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "698707219f5f65d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 6 - Act on Data/3. Identify and analyze timing dependencies affecting the Data Cloud lifecycle/F3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5235254db15153aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain 6 - Act on Data/2. Use attributes and related attributes/F2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c26493732c4e25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "caf1f3075af671ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2753b9f83d707b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f386af900b162e0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0ebfacdd19341a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23c1b9d633d2e56b",
+    "type": "split",
+    "children": [
+      {
+        "id": "32d8430e7218e748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b3957ee96994660",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Domain 6 - Act on Data/F. Act on Data.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d06defc67dd5e365",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Domain 6 - Act on Data/F. Act on Data.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c05c4b4341c7597",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3319ccc476984164",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Domain 6 - Act on Data/F. Act on Data.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f8cae3758a8629e",
+  "lastOpenFiles": [
+    "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases/F5.md",
+    "Domain 6 - Act on Data/4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes/F4.md",
+    "Domain 6 - Act on Data/F. Act on Data.md",
+    "Domain 6 - Act on Data/3. Identify and analyze timing dependencies affecting the Data Cloud lifecycle/F3.md",
+    "Domain 6 - Act on Data/2. Use attributes and related attributes/F2.md",
+    "Domain 6 - Act on Data/1. Define activations and their basic use cases/F1.md",
+    "Domain 5 - Segmentation and Insights/E. Segmentation and Insights.md",
+    "Domain 5 - Segmentation and Insights/4. Identify and differentiate between calculated and streaming insights/E4.md",
+    "Domain 5 - Segmentation and Insights/3. Configure, refine, and maintain segments within Data Cloud/E3.md",
+    "Domain 5 - Segmentation and Insights/2. Identify scenarios for analyzing segment membership/E2.md",
+    "Domain 5 - Segmentation and Insights/1. Define basic concepts of segmentation and use cases/E1.md",
+    "Domain 4 - Identity Resolution/D. Identity Resolution.md",
+    "Domain 4 - Identity Resolution/3. Describe the results of identify resolution and use cases/D3.md",
+    "Domain 4 - Identity Resolution/2. Reconcile data and describe how its rule sets are applied/D2.md",
+    "Domain 4 - Identity Resolution/1. Describe matching and how its rule sets are applied/D1.md",
+    "Domain 3 - Data Ingestion and Modeling/C. Data Ingestion and Modeling.md",
+    "Domain 3 - Data Ingestion and Modeling/4. Use available tools to inspect and validate ingested and modeled data/C4.md",
+    "Domain 3 - Data Ingestion and Modeling/3. Define, map, and model data using best practices and aligning to requirements for identity resolution/C3.md",
+    "Domain 3 - Data Ingestion and Modeling/2. Describe processes and considerations for data ingestion from different sources into Data Cloud/C2.md",
+    "Domain 3 - Data Ingestion and Modeling/1. Identify the different transformation capabilities within Data Cloud/C1.md",
+    "Domain 2 - Data Cloud Setup and Administration/B. Data Cloud Setup and Administration.md",
+    "Domain 2 - Data Cloud Setup and Administration/5. Diagnose and explore data using Data Explorer, Profile Explorer, and APIs/B5.md",
+    "Domain 2 - Data Cloud Setup and Administration/4. Manage and administer Data Cloud using reports, dashboards, flows, packaging, and data kits/B4.md",
+    "Domain 2 - Data Cloud Setup and Administration/3. Identify use cases for data spaces and create data spaces based on requirements/B3.md",
+    "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md",
+    "Domain 2 - Data Cloud Setup and Administration/1. Apply Data Cloud permissions, permission sets, and org-wide settings/B1.md",
+    "F4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes",
+    "Domain 1 - Solution Overview/4. Describe and apply the principles of data ethics",
+    "Domain 1 - Solution Overview/3. Articulate the Data Cloud lifecycle and its dependencies",
+    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud",
+    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value",
+    "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases",
+    "Domain 6 - Act on Data/4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes",
+    "Domain 6 - Act on Data/3. Identify and analyze timing dependencies affecting the Data Cloud lifecycle",
+    "Domain 6 - Act on Data/2. Use attributes and related attributes",
+    "Domain 6 - Act on Data/1. Define activations and their basic use cases"
+  ]
+}
