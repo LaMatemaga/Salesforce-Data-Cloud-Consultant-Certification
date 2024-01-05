@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,19 @@
             }
           },
           {
-            "id": "731923cdec22294d",
+            "id": "d76e73d20d4010d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z. Glossary/R/Reconciliation Rules.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6491ca833e98b5c3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -52,19 +64,18 @@
             }
           },
           {
-            "id": "6491ca833e98b5c3",
+            "id": "a129f8132e49671a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Z. Glossary/C/Customer 360 Data Model.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md"
+              }
             }
           }
         ]
@@ -187,34 +202,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731923cdec22294d",
+  "active": "53db7c7f2c42bdcf",
   "lastOpenFiles": [
-    "Glossary.md",
-    "Z. Glossary/I/Identity Resolution.md",
     "Z. Glossary/W/Webhook.md",
+    "Z. Glossary/I/Installed Package.md",
+    "Z. Glossary/R/Reconciliation Rules.md",
+    "Glossary.md",
+    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud/A2.md",
     "Z. Glossary/U/Unified Profile.md",
+    "Z. Glossary/I/Ingestion.md",
+    "Z. Glossary/A/Activation.md",
+    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
+    "Z. Glossary/O/Object Manager.md",
+    "Z. Glossary/S/Structured Query Language (SQL).md",
+    "Structured Query Language (SQL).md",
+    "Z. Glossary/C/Customer 360 Data Model.md",
+    "Z. Glossary/I/Identity Resolution.md",
     "Z. Glossary/T/Third-Party Data.md",
     "Z. Glossary/T/Tenant-Specific Endpoint (TSE).md",
     "Z. Glossary/T/Tenant.md",
     "Z. Glossary/T/Tableau CRM.md",
     "Z. Glossary/T/Tableau.md",
     "Z. Glossary/S/Subject Area.md",
-    "Z. Glossary/S/Structure Query Language (SQL).md",
     "Z. Glossary/S/Streaming Insight.md",
     "Z. Glossary/S/Segments Tab.md",
     "Z. Glossary/S/Segmentation.md",
     "Z. Glossary/S/Segment On.md",
     "Z. Glossary/S/Segment.md",
     "Z. Glossary/S/Second-Party Data.md",
-    "Z. Glossary/S/Salesforce Data Pipelines.md",
-    "Z. Glossary/S/Salesforce CRM.md",
-    "Z. Glossary/S/Salesforce Advertising Studio.md",
-    "Z. Glossary/R/Ruleset.md",
-    "Z. Glossary/R/Relationships.md",
-    "Z. Glossary/R/Relational Data.md",
-    "Z. Glossary/O/Org (Organization).md",
-    "Z. Glossary/R/Related Attributes.md",
-    "Z. Glossary/R/Reconciliation Rules.md",
     "Z. Glossary/P",
     "Z. Glossary/O",
     "Z. Glossary/N",
