@@ -8,43 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f8cae3758a8629e",
+            "id": "53db7c7f2c42bdcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases/F5.md",
+                "file": "Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07ef3aa531cc239b",
+            "id": "7997dc6533129048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain 1 - Solution Overview/3. Articulate the Data Cloud lifecycle and its dependencies/A3.md",
-                "mode": "preview",
+                "file": "Z. Glossary/W/Webhook.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5da39dfe7f1f268",
+            "id": "4f5c4227f49cba33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown Alerts.md",
+                "file": "Z. Glossary/I/Installed Package.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "731923cdec22294d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6491ca833e98b5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Z. Glossary/C/Customer 360 Data Model.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown Alerts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown Alerts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown Alerts.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,43 +187,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5da39dfe7f1f268",
+  "active": "731923cdec22294d",
   "lastOpenFiles": [
-    "Domain 1 - Solution Overview/3. Articulate the Data Cloud lifecycle and its dependencies/A3.md",
-    "Markdown Alerts.md",
-    "Domain 1 - Solution Overview/4. Describe and apply the principles of data ethics/A4.md",
-    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud/A2.md",
-    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
-    "Domain 5 - Segmentation and Insights/2. Identify scenarios for analyzing segment membership/E2.md",
-    "Domain 6 - Act on Data/F. Act on Data.md",
-    "Domain 1 - Solution Overview/A. Solution Overview.md",
-    "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases/F5.md",
-    "Domain 6 - Act on Data/4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes/F4.md",
-    "Domain 6 - Act on Data/3. Identify and analyze timing dependencies affecting the Data Cloud lifecycle/F3.md",
-    "Domain 6 - Act on Data/2. Use attributes and related attributes/F2.md",
-    "Domain 6 - Act on Data/1. Define activations and their basic use cases/F1.md",
-    "Domain 5 - Segmentation and Insights/4. Identify and differentiate between calculated and streaming insights/E4.md",
-    "Domain 5 - Segmentation and Insights/3. Configure, refine, and maintain segments within Data Cloud/E3.md",
-    "Domain 5 - Segmentation and Insights/1. Define basic concepts of segmentation and use cases/E1.md",
-    "Domain 4 - Identity Resolution/2. Reconcile data and describe how its rule sets are applied/D2.md",
-    "Domain 4 - Identity Resolution/3. Describe the results of identify resolution and use cases/D3.md",
-    "Domain 4 - Identity Resolution/1. Describe matching and how its rule sets are applied/D1.md",
-    "Domain 3 - Data Ingestion and Modeling/4. Use available tools to inspect and validate ingested and modeled data/C4.md",
-    "Domain 3 - Data Ingestion and Modeling/3. Define, map, and model data using best practices and aligning to requirements for identity resolution/C3.md",
-    "Domain 3 - Data Ingestion and Modeling/2. Describe processes and considerations for data ingestion from different sources into Data Cloud/C2.md",
-    "Domain 3 - Data Ingestion and Modeling/1. Identify the different transformation capabilities within Data Cloud/C1.md",
-    "Domain 2 - Data Cloud Setup and Administration/5. Diagnose and explore data using Data Explorer, Profile Explorer, and APIs/B5.md",
-    "Domain 2 - Data Cloud Setup and Administration/4. Manage and administer Data Cloud using reports, dashboards, flows, packaging, and data kits/B4.md",
-    "Domain 2 - Data Cloud Setup and Administration/3. Identify use cases for data spaces and create data spaces based on requirements/B3.md",
-    "F4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes",
-    "Domain 1 - Solution Overview/4. Describe and apply the principles of data ethics",
-    "Domain 1 - Solution Overview/3. Articulate the Data Cloud lifecycle and its dependencies",
-    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud",
-    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value",
-    "Domain 6 - Act on Data/5. Use data actions and identify their requirements and intended use cases",
-    "Domain 6 - Act on Data/4. Troubleshoot common problems with activations including accepted and rejected counts, errors, and not seeing related attributes",
-    "Domain 6 - Act on Data/3. Identify and analyze timing dependencies affecting the Data Cloud lifecycle",
-    "Domain 6 - Act on Data/2. Use attributes and related attributes",
-    "Domain 6 - Act on Data/1. Define activations and their basic use cases"
+    "Glossary.md",
+    "Z. Glossary/I/Identity Resolution.md",
+    "Z. Glossary/W/Webhook.md",
+    "Z. Glossary/U/Unified Profile.md",
+    "Z. Glossary/T/Third-Party Data.md",
+    "Z. Glossary/T/Tenant-Specific Endpoint (TSE).md",
+    "Z. Glossary/T/Tenant.md",
+    "Z. Glossary/T/Tableau CRM.md",
+    "Z. Glossary/T/Tableau.md",
+    "Z. Glossary/S/Subject Area.md",
+    "Z. Glossary/S/Structure Query Language (SQL).md",
+    "Z. Glossary/S/Streaming Insight.md",
+    "Z. Glossary/S/Segments Tab.md",
+    "Z. Glossary/S/Segmentation.md",
+    "Z. Glossary/S/Segment On.md",
+    "Z. Glossary/S/Segment.md",
+    "Z. Glossary/S/Second-Party Data.md",
+    "Z. Glossary/S/Salesforce Data Pipelines.md",
+    "Z. Glossary/S/Salesforce CRM.md",
+    "Z. Glossary/S/Salesforce Advertising Studio.md",
+    "Z. Glossary/R/Ruleset.md",
+    "Z. Glossary/R/Relationships.md",
+    "Z. Glossary/R/Relational Data.md",
+    "Z. Glossary/O/Org (Organization).md",
+    "Z. Glossary/R/Related Attributes.md",
+    "Z. Glossary/R/Reconciliation Rules.md",
+    "Z. Glossary/P",
+    "Z. Glossary/O",
+    "Z. Glossary/N",
+    "Z. Glossary/S",
+    "Z. Glossary/R",
+    "Z. Glossary/Q",
+    "Z. Glossary/T",
+    "Z. Glossary/U",
+    "Untitled.canvas",
+    "Z. Glossary/W",
+    "Z. Glossary/M"
   ]
 }

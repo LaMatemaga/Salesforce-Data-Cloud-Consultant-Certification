@@ -6,7 +6,7 @@
 [[Anonymous Data]]
 [[Amazon S3 (Amazon Simple Storage Service]]
 [[API Access]]
-[[API Calls]]
+[[API Call]]
 [[API Name]]
 [[Attributes]]
 [[Audience]]
@@ -17,7 +17,7 @@
 [[Business Unit]]
 # C
 [[Calculated Insights]]
-[[Calculated Insight Object (CIO)]]
+[[Calculated Insights Object (CIO)]]
 [[Category]]
 [[Composite Key]]
 [[Consent Management]]
@@ -46,7 +46,7 @@
 [[Data Lake Object (DLO)]]
 [[Data Mapping]]
 [[Data Model]]
-[[Data Model Objects (DMOs)]]
+[[Data Model Object (DMO)]]
 [[Data Source]]
 [[Data Source Object (DSO)]]
 [[Data Space]]
@@ -103,7 +103,7 @@
 [[Next Best Offer]]
 [[Node]]
 # O
-[[Objects]]
+[[Object]]
 [[Object Manager]]
 [[Org (Organization)]]
 # P
@@ -135,7 +135,7 @@
 [[Segments Tab]]
 [[Segment On]]
 [[Segmentation]]
-[[Streaming Insights]]
+[[Streaming Insight]]
 [[Structure Query Language (SQL)]]
 [[Subject Area]]
 # T
