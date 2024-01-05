@@ -3,7 +3,7 @@ group: Concepts
 tags:
     - glossary
 ---
-A data type grouping that is selected when importing data into Data Cloud.
+A data type grouping that is selected when importing data into [[Data Cloud]].
 > Categories can’t be edited after ingestion
 
 Available categories include:

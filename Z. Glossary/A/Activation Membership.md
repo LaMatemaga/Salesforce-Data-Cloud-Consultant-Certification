@@ -3,4 +3,4 @@ group: Concepts
 tags:
     - glossary
 ---
-The grouping of fields from different data model objects (DMOs) to include in an activation.
+The grouping of [[field]]s from different [[Data Model Object (DMO)]]s to include in an [[activation]].

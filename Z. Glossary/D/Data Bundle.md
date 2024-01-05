@@ -3,4 +3,4 @@ group: Concepts
 tags:
     - glossary
 ---
-A collection of data streams that are automatically mapped to data model objects (DMO), for example, a Salesforce CRM bundle. Also called a starter data bundle in reference to Marketing Cloud.
+A collection of [[data stream]]s that are automatically mapped to [[Data Model Object (DMO)]]s), for example, a [[Salesforce CRM]] bundle. Also called a starter data bundle in reference to Marketing Cloud.

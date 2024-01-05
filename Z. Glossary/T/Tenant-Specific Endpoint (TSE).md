@@ -3,4 +3,4 @@ group: Concepts
 tags:
     - glossary
 ---
-A unique system-generated subdomain assigned to your tenant.
+A unique system-generated subdomain assigned to your [[tenant]].
