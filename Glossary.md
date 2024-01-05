@@ -136,7 +136,7 @@
 [[Segment On]]
 [[Segmentation]]
 [[Streaming Insight]]
-[[Structure Query Language (SQL)]]
+[[Structured Query Language (SQL)]]
 [[Subject Area]]
 # T
 [[Tableau]]
