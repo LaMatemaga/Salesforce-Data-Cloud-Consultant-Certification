@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "6491ca833e98b5c3",
+            "id": "a129f8132e49671a",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,18 +64,19 @@
             }
           },
           {
-            "id": "a129f8132e49671a",
+            "id": "e6781a9645b72c3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
+                "file": "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
+                "file": "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md"
+                "file": "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md"
               }
             }
           }
@@ -202,17 +203,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53db7c7f2c42bdcf",
+  "active": "e6781a9645b72c3f",
   "lastOpenFiles": [
+    "Domain 2 - Data Cloud Setup and Administration/3. Identify use cases for data spaces and create data spaces based on requirements/B3.md",
+    "Domain 2 - Data Cloud Setup and Administration/2. Describe and configure the available data stream types and data bundles/B2.md",
+    "Domain 2 - Data Cloud Setup and Administration/1. Apply Data Cloud permissions, permission sets, and org-wide settings/B1.md",
+    "Markdown Alerts.md",
+    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud/A2.md",
+    "Domain 1 - Solution Overview/3. Articulate the Data Cloud lifecycle and its dependencies/A3.md",
+    "Domain 2 - Data Cloud Setup and Administration/B. Data Cloud Setup and Administration.md",
+    "Domain 2 - Data Cloud Setup and Administration/5. Diagnose and explore data using Data Explorer, Profile Explorer, and APIs/B5.md",
+    "Domain 2 - Data Cloud Setup and Administration/4. Manage and administer Data Cloud using reports, dashboards, flows, packaging, and data kits/B4.md",
+    "Glossary.md",
     "Z. Glossary/W/Webhook.md",
     "Z. Glossary/I/Installed Package.md",
     "Z. Glossary/R/Reconciliation Rules.md",
-    "Glossary.md",
-    "Domain 1 - Solution Overview/2. Identify typical use cases for Data Cloud/A2.md",
+    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
     "Z. Glossary/U/Unified Profile.md",
     "Z. Glossary/I/Ingestion.md",
     "Z. Glossary/A/Activation.md",
-    "Domain 1 - Solution Overview/1. Describe Data Cloud’s function, key terminology, and business value/A1.md",
     "Z. Glossary/O/Object Manager.md",
     "Z. Glossary/S/Structured Query Language (SQL).md",
     "Structured Query Language (SQL).md",
@@ -222,14 +231,6 @@
     "Z. Glossary/T/Tenant-Specific Endpoint (TSE).md",
     "Z. Glossary/T/Tenant.md",
     "Z. Glossary/T/Tableau CRM.md",
-    "Z. Glossary/T/Tableau.md",
-    "Z. Glossary/S/Subject Area.md",
-    "Z. Glossary/S/Streaming Insight.md",
-    "Z. Glossary/S/Segments Tab.md",
-    "Z. Glossary/S/Segmentation.md",
-    "Z. Glossary/S/Segment On.md",
-    "Z. Glossary/S/Segment.md",
-    "Z. Glossary/S/Second-Party Data.md",
     "Z. Glossary/P",
     "Z. Glossary/O",
     "Z. Glossary/N",
